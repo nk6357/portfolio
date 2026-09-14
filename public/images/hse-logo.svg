@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 92" role="img" aria-labelledby="title description">
+  <title id="title">Место для официального логотипа НИУ ВШЭ</title>
+  <desc id="description">Это технический placeholder, а не логотип университета.</desc>
+  <rect x="1" y="1" width="318" height="90" fill="none" stroke="#bdb4aa" stroke-width="2" stroke-dasharray="6 5"/>
+  <text x="20" y="40" fill="#6d6660" font-family="Arial, sans-serif" font-size="13">ОФИЦИАЛЬНЫЙ ЛОГОТИП НИУ ВШЭ</text>
+  <text x="20" y="62" fill="#6d6660" font-family="Arial, sans-serif" font-size="11">НЕ ДОБАВЛЕН · СМ. public/images/README.md</text>
+</svg>
